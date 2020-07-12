@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\bin\Debug\LESSON_16_VIRTUAL.exe.config
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\bin\Debug\LESSON_16_VIRTUAL.exe
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\bin\Debug\LESSON_16_VIRTUAL.pdb
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\obj\Debug\LESSON_16_VIRTUAL.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\obj\Debug\LESSON_16_VIRTUAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\obj\Debug\LESSON_16_VIRTUAL.exe
+C:\Users\USER\Desktop\עבודות\Lesson 16 OOP\LESSON_16_VIRTUAL\LESSON_16_VIRTUAL\obj\Debug\LESSON_16_VIRTUAL.pdb
